@@ -1,0 +1,9 @@
+body{
+	background-color: #B8BFD4;
+}
+
+h1{
+	background:
+		url("/images/pushpin-blue.png") left/auto 120% no-repeat,
+		url("/images/pushpin-blue.png") right/auto 120% no-repeat;
+}
